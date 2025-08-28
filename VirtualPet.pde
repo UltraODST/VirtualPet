@@ -5,6 +5,7 @@ size(400, 400);
 }
 void draw(){
   //more of your code here
+fill (255, 182, 193);
 color c = color(255, 204, 0);
 float redValue = red(c);
 fill (redValue, 0, 0); ellipse(105, 160, 200, 200);
